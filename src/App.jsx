@@ -41,7 +41,7 @@ function App() {
 
       const code = await res.text();
       if (code && code.trim()) {
-        setShortLink(`https://shortIt/${code.trim()}`);
+        setShortLink(`https://shortennn.netlify.app/${code.trim()}`);
       } else {
         throw new Error("Invalid response from server");
       }
