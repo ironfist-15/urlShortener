@@ -1,1 +1,3 @@
-/*   /index.html   200
+/shorten     https://5gf2pyvzya.execute-api.us-east-1.amazonaws.com/shorten   200
+/:code       https://5gf2pyvzya.execute-api.us-east-1.amazonaws.com/:code     302
+/            /index.html                                                     200
